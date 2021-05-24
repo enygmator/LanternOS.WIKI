@@ -1,5 +1,4 @@
 name: deploy
-environment: github-pages
 
 on:
   pull_request:

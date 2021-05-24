@@ -3,12 +3,12 @@ module.exports = {
   title: 'Lantern OS Wiki',
   tagline: 'All the resources pertaining to the LanternOS Project, including complete Documentation and Blog posts.',
   url: 'https://enygmator.github.io',
-  baseUrl: '/LanternOS.Wiki/',
+  baseUrl: '/LanternOS.WIKI/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'enygmator', // Usually your GitHub org/user name.
-  projectName: 'LanternOS.Wiki', // Usually your repo name.
+  projectName: 'LanternOS.WIKI', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Lantern OS Wiki',

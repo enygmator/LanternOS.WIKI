@@ -1,5 +1,7 @@
 # LanternOS.WIKI
 
+[![deploy](https://github.com/enygmator/LanternOS.WIKI/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/enygmator/LanternOS.WIKI/actions/workflows/deploy.yml)
+
 This is the GitHub repository (source code) for the `LanternOS WIKI` website where the WIKI for LanternOS is hosted. It is open source under the APACHE 2.0 License.
 
 We are using [`Docusaurus`](https://docusaurus.io/) to generate the documentation website from Markdown (`MDX`) combined with `React` for some of the hosted pages.
