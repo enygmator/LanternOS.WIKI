@@ -1,0 +1,33 @@
+/* stylelint-disable docusaurus/copyright-header */
+
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttonbg {
+  background: rgb(233,0,64);
+  background: linear-gradient(90deg, rgba(233,0,64,1) 0%, rgba(233,0,64,1) 50%,rgba(255,42,42,1) 70%, rgba(224,141,11,1) 100%);
+  background-size: 200%;
+  background-position: 100%;
+  border-color: rgb(233,0,64);
+  transition: background 0.3s ease-out, transform 0.1s ease-out;
+}
+
+.buttonbg:hover {
+  background-position: 0%;
+  transform: scale(103%);
+}
