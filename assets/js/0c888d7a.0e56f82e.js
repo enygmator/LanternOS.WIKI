@@ -1,1 +1,0 @@
-(self.webpackChunklantern_os_wiki=self.webpackChunklantern_os_wiki||[]).push([[510],{8872:function(n){"use strict";n.exports=JSON.parse('{"allTagsPath":"/LanternOS.Wiki/blog/tags","slug":"lantern-os","name":"lanternos","count":1,"permalink":"/LanternOS.Wiki/blog/tags/lantern-os"}')}}]);

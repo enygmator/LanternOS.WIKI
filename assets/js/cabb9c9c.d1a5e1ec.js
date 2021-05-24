@@ -1,0 +1,1 @@
+(self.webpackChunklantern_os_wiki=self.webpackChunklantern_os_wiki||[]).push([[241],{1165:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/LanternOS.WIKI/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

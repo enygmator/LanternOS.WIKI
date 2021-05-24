@@ -1,1 +1,0 @@
-(self.webpackChunklantern_os_wiki=self.webpackChunklantern_os_wiki||[]).push([[846],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"A Brief History of the LanternOS Project","permalink":"/LanternOS.Wiki/blog/2020/05/20/A-Brief-History"}]}')}}]);
